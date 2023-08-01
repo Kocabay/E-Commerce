@@ -24,7 +24,7 @@ E-Ticaret Projesi Özellikleri
 
 - Verimli JavaScript Kullanımı: JavaScript, sayfa etkileşimlerini sağlamak ve dinamik içerikleri yönetmek için verimli bir şekilde kullanılmıştır. Bu, kullanıcıların daha iyi bir deneyim yaşamasını sağlar.
 
-
+##  Canlı link : https://e-commerrr.netlify.app/
 
 ## Kullanılan Araçlar
 
