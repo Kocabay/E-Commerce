@@ -38,5 +38,5 @@ Proje geliştirilirken aşağıdaki araçlar kullanılmıştır:
 
 Aşağıdaki GIF, projenin çalışma önizlemesini göstermektedir:
 
-![Proje Önizleme](ecommercee.gif)
+![Proje Önizleme](Ecommercee.gif)
 # E-Commerce
