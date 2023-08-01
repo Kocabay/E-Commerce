@@ -24,7 +24,7 @@ E-Ticaret Projesi Özellikleri
 
 - Verimli JavaScript Kullanımı: JavaScript, sayfa etkileşimlerini sağlamak ve dinamik içerikleri yönetmek için verimli bir şekilde kullanılmıştır. Bu, kullanıcıların daha iyi bir deneyim yaşamasını sağlar.
 
-Git Clone https://github.com/mehmetpolat46/e-ticaret-projesi.git
+
 
 ## Kullanılan Araçlar
 
